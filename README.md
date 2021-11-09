@@ -1,3 +1,3 @@
-# Shoot_The_Enemies
+# Shoot The Enemies
  
 itch.io link: https://barakam.itch.io/shoot-the-enemies
