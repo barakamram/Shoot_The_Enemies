@@ -8,7 +8,8 @@ The script changed is under Assets/Scripts/2-spawners/KeyboardSpawner.cs.
 
 https://github.com/barakamram/Ex4_1---Shoot_The_Enemies/blob/main/Assets/Scripts/2-spawners/KeyboardSpawner.cs
 
-The changes are:
+
+### The changes are:
 * The player can't shoot non-stop. he has to wait 2 seconds between the shots.
 
 * After 10 seconds the player gets the power of non-stop shots for 3 seconds.
