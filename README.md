@@ -49,7 +49,6 @@ once you do this, re-open the scenes, and you should be able to see the texts.
 
 
 ## Credits
-
 Programming:
 * Maoz Grossman
 * Erel Segal-Halevi
